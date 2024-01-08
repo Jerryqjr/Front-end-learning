@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+    color: #555;
+}
+
+
+header{
+    width: 800px;
+    height: 200px;
+    border:1px solid orange;
+    background-image: url('../../csscheatsheet/image/scenery.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    
+}
+
+#logo{
+    text-align: center;
+    color: greenyellow;
+}
